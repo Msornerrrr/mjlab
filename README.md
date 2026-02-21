@@ -172,7 +172,7 @@ mjlab is used for research and robotics applications around the world. Examples:
         />
       </a>
     </td>
-    <td>Official Unitree RL environments for Go2, G1, and H1_2.</td>
+    <td>Sim-to-real RL for in-hand cube rotation with the LEAP Hand.</td>
   </tr>
 </table>
 
